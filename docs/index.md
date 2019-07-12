@@ -9,6 +9,9 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
+### Third level
+Third level items don't show up in the nav.
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
