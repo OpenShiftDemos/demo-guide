@@ -1,6 +1,7 @@
-# Welcome to the OpenShift Container Platform Demo and Workshop Guide
+# Welcome
 
-This site contains documentation and links to content to help you perform
+Welcome to the OpenShift Container Platform Demo and Workshop Guide. This
+site contains documentation and links to content to help you perform
 demonstrations or workshops using OpenShift Container Platform and associated
 Red Hat products.
 
@@ -12,4 +13,5 @@ The source code for this site can be found [here](https://github.com/OpenShiftDe
 
 Please file issues for demos and workshops in their respective documented
 repositories. But feel free to file issues for this site and its content at
-the repo linked above.
+the repo linked above, and feel free to contribute with pull requests to the
+`dev` branch.
