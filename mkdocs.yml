@@ -9,6 +9,7 @@ nav:
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'Full Serverless Workflow: Eventing, Serving, and Building': 'serverless-workflow.md'
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
+    - 'Application Performance Monitoring in OpenShift': 'app-monitoring.md'
 - Install/Multi-Cloud:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
