@@ -15,6 +15,7 @@ nav:
     - 'RHV IPI': 'rhv-ipi.md'
 - Management/Ops:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
+    - 'Windows Containers': 'windows-containers.md'
 - Install/Multi-Cloud:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
