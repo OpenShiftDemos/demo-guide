@@ -5,7 +5,15 @@ nav:
 - Home: 'index.md'
 - AppDev:
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
+    - 'Full Serverless Workflow Eventing, Serving, and Building': 'full-serverless-workflow.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
+    - 'Service Mesh in Action': 'service-mesh-in-action.md'
+    - 
+    
 - Install/Multi-Cloud:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
+    
+- Management/Ops:
+    - 'IBM MCM': 'ibm-mcm.md'
+    - 'Managing Operators at scale': 'managing-operators-at-scale.md'
