@@ -1,8 +1,7 @@
-# vSphere pre-existing infrastructure install
 
 Using the pre-existing install process, also known as user provisioned infrastructure or UPI, gives the administrator the ability to create and manage OpenShift nodes themselves.  The OpenShift install process changes when using this method, where the Ignition configs must be provided to the nodes so that they may cofigure and join the cluster.  This video demonstrates the process of deploying RHEL CoreOS to VMware virtual machines and deploying OpenShift 4 to those VMs.  For more information, refer to the installer documentation at https://github.com/openshift/installer and the training materials at https://github.com/openshift/training.
 
-## Video
+### Video
 
 This video demonstrates using Terraform to create vSphere virtual machines from the Red Hat CoreOS OVA template.
 

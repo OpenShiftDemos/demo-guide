@@ -1,9 +1,5 @@
 
-# Full Serverless Workflow: Eventing, Serving and Building 
-A handy description of the whole section.
-
-## SubSection (eg: specific thing)
-A description of the specific thing being covered in this subsection.
+This page is a placeholder for future content.
 
 ### Video
 If a recorded video is available, embed the video, and add any details in the

@@ -1,4 +1,4 @@
-# Application Development
+
 This section contains various features and topics related to Applciation
 Development on OpenShift Container Platform.
 

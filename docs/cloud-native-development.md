@@ -1,4 +1,4 @@
-# OpenShift Cloud Native Development Workshop
+
 The OpenShift Cloud Native Development workshop is a series of exercises
 targeted at individuals who are interested in cloud native development
 practices and how the Red Hat portfolio of solutions work in that context.
@@ -32,6 +32,3 @@ single role, [ocp4-workload-ccnrd](https://github.com/redhat-cop/agnosticd/tree/
     1. [Debugging, Monitoring and Continuous Delivery](https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m2-labs)
     1. [Control Cloud Native Apps with Service Mesh](https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m3-labs)
     1. [Advanced Cloud Native with Event-Driven Serverless](https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m4-labs)
-
-The source repository includes instructions for how to deploy the
-workshop yourself.
