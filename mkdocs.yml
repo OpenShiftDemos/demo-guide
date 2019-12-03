@@ -7,7 +7,7 @@ nav:
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
     - 'Full Serverless Workflow Eventing, Serving, and Building': 'full-serverless-workflow.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
-    - 'Service Mesh in Action': 'service-mesh-in-action.md'
+    - 'Service Mesh in Action': 'service-mesh.md'
     - 
     
 - Install/Multi-Cloud:
