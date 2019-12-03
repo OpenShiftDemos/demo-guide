@@ -16,3 +16,4 @@ nav:
 - Management/Ops:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'Windows Containers': 'windows-containers.md'
+    - 'GitOps on OpenShift': 'gitops-on-openshift.md'
