@@ -1,5 +1,4 @@
-
-# Full Serverless Workflow: Eventing, Serving and Building 
+# Managing Operators at scale
 A handy description of the whole section.
 
 ## SubSection (eg: specific thing)
