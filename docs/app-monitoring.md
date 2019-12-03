@@ -9,7 +9,7 @@ in OpenShift.
 This video demonstrates some basics of administering your application metrics
 environment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oHg5SJYRHA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oHg5SJYRHA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Self-Paced Learning
 
