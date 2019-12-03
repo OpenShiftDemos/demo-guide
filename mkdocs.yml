@@ -13,6 +13,7 @@ nav:
 - Install/Multi-Cloud:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
+    - 'vSphere UPI': 'vsphere-upi.md'
 - Management/Ops:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'Windows Containers': 'windows-containers.md'
