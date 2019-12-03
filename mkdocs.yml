@@ -17,3 +17,6 @@ nav:
 - Install/Multi-Cloud:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
+- Install/Multi-Cloud:
+    - 'OSP UPI': 'osp-upi.md'
+    - 'RHV IPI': 'rhv-ipi.md'
