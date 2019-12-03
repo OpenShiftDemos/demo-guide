@@ -14,16 +14,12 @@ nav:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
+    - 'Windows Containers': 'windows-containers.md'
+    - 'GitOps on OpenShift': 'gitops-on-openshift.md'
+    - 'OpenShift Metering': 'metering.md'
 - Management/Ops:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'Managing Operators at scale': 'managing-operators-at-scale.md'
     - 'IBM Multi-Cluster Manager': 'ibm-mcm.md'
-- Install/Multi-Cloud:
-    - 'OSP UPI': 'osp-upi.md'
-    - 'RHV IPI': 'rhv-ipi.md'
-- Install/Multi-Cloud:
-    - 'OSP UPI': 'osp-upi.md'
-    - 'RHV IPI': 'rhv-ipi.md'
-    - 'Windows Containers': 'windows-containers.md'
-    - 'GitOps on OpenShift': 'gitops-on-openshift.md'
-    - 'OpenShift Metering': 'metering.md'
+
+
