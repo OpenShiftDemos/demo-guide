@@ -1,5 +1,4 @@
-
-# Full Serverless Workflow: Eventing, Serving and Building 
+# Heading of Section (eg: AppDev)
 A handy description of the whole section.
 
 ## SubSection (eg: specific thing)
