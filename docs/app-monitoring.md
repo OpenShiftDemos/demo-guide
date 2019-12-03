@@ -1,4 +1,3 @@
-# Application Performance Monitoring in OpenShift
 
 In this section we explore using Prometheus, Grafana, and Alertmanager to
 understand how to collect, use, and respond to advanced application metrics
@@ -25,11 +24,8 @@ Code Ready Containers with the code found [here](https://github.com).
 
 ## Workshop
 
-This functionality can be experienced and taught as part of the [Advanced
-Operations Workshop](http://redhat.readthedocs.io).
+This functionality can be experienced and taught as part of the [Advanced Operations Workshop](http://redhat.readthedocs.io).
 
 ## Additional Resources
 
-See these kick-ass blog posts for more details. One by [Erik
-Jacobs](http://blog.openshift.com) and another by [Christian
-Hernandez](http://blog.openshift.com).
+See these kick-ass blog posts for more details. One by [Erik Jacobs](http://blog.openshift.com) and another by [Christian Hernandez](http://blog.openshift.com).

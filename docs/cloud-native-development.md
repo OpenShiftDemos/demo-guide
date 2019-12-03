@@ -1,4 +1,3 @@
-# OpenShift Cloud Native Development Workshop
 
 The OpenShift Cloud Native Development workshop is a series of exercises
 targeted at individuals who are interested in cloud native development
@@ -13,7 +12,7 @@ The workshop consists of four distinct modules covering various topics:
 ## Source
 TBD.
 
-## RHPDS
+## Workshop
 Within RHPDS, the catalog item is in the _Workshops_ category and is called
 _CCN Roadshow for Dev Track_. Each student/participant will be using a shared
 OpenShift cluster. In RHPDS, before ordering, the catalog item description

@@ -1,17 +1,11 @@
-# Windows Containers
-A handy description of the whole section.
 
-## SubSection (eg: specific thing)
-A description of the specific thing being covered in this subsection.
+This page is a placeholder for future content.
 
 ### Video
 If a recorded video is available, embed the video, and add any details in the
 paragraph. Use embedded HTML for the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sjsX6-WZ_Y4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Self-Paced Learning
-If there is a Katacoda scenario, link to the scenario start page here.
 
 ### Demo
 If there is a simple way to set up an environment to demonstrate the thing,

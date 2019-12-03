@@ -1,4 +1,3 @@
-# OpenShift and Container Storage for Admins
 
 The OpenShift and Container Storage for Admins workshop is a series of
 exercises targeted at individuals who would be installing or managing an
