@@ -1,2 +1,11 @@
 site_name: OpenShift Demos and Workshops
 theme: readthedocs
+
+nav:
+- Home: 'index.md'
+- AppDev:
+    - 'OpenShift Pipelines': 'openshift-pipelines.md'
+    - 'Helm 3 in Action': 'helm3-in-action.md'
+- Install/Multi-Cloud:
+    - 'OSP UPI': 'osp-upi.md'
+    - 'RHV IPI': 'rhv-ipi.md'
