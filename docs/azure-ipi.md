@@ -3,7 +3,7 @@ The OpenShift full-stack installer is designed to help users, ranging from novic
 
 ### Video
 
-This video demonstrates using the OpenShift Installer to provision the infrasturture and install the platform onto Azure.
+This video demonstrates using the OpenShift Installer to provision the infrasturture and install OpenShift Container Platform onto Azure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4UbHQ3nR-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
