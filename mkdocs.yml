@@ -15,6 +15,7 @@ nav:
     - 'RHV IPI': 'rhv-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
     - 'Azure IPI': 'azure-ipi.md'
+    - 'Google Cloud IPI': 'gcp-ipi.md'
 - Management/Ops:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'Managing Operators at scale': 'managing-operators-at-scale.md'
