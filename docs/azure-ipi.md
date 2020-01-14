@@ -13,3 +13,4 @@ This video demonstrates using the OpenShift Installer to provision the infrastur
 * Blogs
   * [OpenShift 4.2 Azure Install Blog](https://blog.openshift.com/openshift-4-2-on-azure-preview/)
 * Upstream Instructions [OpenShift 4.2 Azure Install](https://github.com/openshift/installer/tree/master/docs/user/azure)
+* Azure Red Hat OpenShift [ARO Workshop](https://mojo.redhat.com/people/dcain/blog/2019/10/16/azure-red-hat-openshift-aro-rhpds-enablement)
