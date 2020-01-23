@@ -14,16 +14,6 @@ GitOps is a form of "Operations by Pull Request" coined by Weaveworks in 2017. G
 * [OpenShift: Interactive Learning Portal — GitOps Introduction with OpenShift](https://learn.openshift.com/introduction/gitops-introduction/): This course will guide you through the deployment of a simple application using GitOps Principles and Patterns on OpenShift.
 * [OpenShift: Interactive Learning Portal — Multi-cluster GitOps with OpenShift](https://learn.openshift.com/introduction/gitops-multicluster/) — This course will guide you through the deployment of a simple application to multiple clusters, customize the application by cluster and perform a canary deployment, all of this using GitOps with OpenShift.
 
-### Demo
-If there is a simple way to set up an environment to demonstrate the thing,
-discuss that fact in this section, and then describe the relevant next steps.
-For example, where to find it in the demo system, or to look in the source
-code repository (detailed in the source section) for more details.
-
-### Workshop
-If there is a workshop that covers this specific thing, link to the
-workshop's documentation in this demo guide in this section.
-
 ### Additional Resources
 
 * [GitOps Archives – Red Hat OpenShift Blog](https://blog.openshift.com/tag/gitops/)
