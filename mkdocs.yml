@@ -12,6 +12,7 @@ nav:
     - 'Full Serverless Workflow: Eventing, Serving, and Building': 'serverless-workflow.md'
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
     - 'Application Performance Monitoring in OpenShift': 'app-monitoring.md'
+    - 'DevOps with OpenShift': 'devops-with-openshift.md'
 - Install/Multi-Cloud:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
