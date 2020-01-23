@@ -35,6 +35,9 @@
   {%- if config.theme.highlightjs %}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
   {%- endif %}
+  {%- for path in config['extra_css'] %}
+  <link href="{{ path|url }}" rel="stylesheet" />
+  {%- endfor %}
   {%- endblock %}
 
   {%- block libs %}
@@ -106,7 +109,7 @@
           {%- endfor %}
           {%- endblock %}
           </ul>
-
+          {% include "versions.html" %}
         </div>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-9 main">
@@ -118,6 +121,7 @@
       </div>
     </div>
   </div>
+
 
   {% include "footer.html" %}
   {%- block scripts %}
@@ -133,7 +137,6 @@
     </script>
   {%- endblock %}
 
-  {% include "versions.html" %}
 </body>
 
 </html>
