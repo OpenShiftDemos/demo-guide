@@ -1,5 +1,12 @@
 site_name: OpenShift Demos and Workshops
-theme: readthedocs
+theme: 
+    name: null
+    custom_dir: openshift/
+    navigation_depth: 2
+    include_homepage_in_sidebar: true
+    include_search_page: true
+plugins:
+    - search
 
 nav:
 - Home: 'index.md'
@@ -14,6 +21,10 @@ nav:
     - 'OSP UPI': 'osp-upi.md'
     - 'RHV IPI': 'rhv-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
+    - 'Azure IPI': 'azure-ipi.md'
+    - 'Google Cloud IPI': 'gcp-ipi.md'
+    - 'Bare Metal UPI': 'bm-upi.md'
+    - 'Disconnected Install': 'disconnected-upi.md'
 - Management/Ops:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'Managing Operators at scale': 'managing-operators-at-scale.md'
@@ -21,5 +32,3 @@ nav:
     - 'Windows Containers': 'windows-containers.md'
     - 'GitOps on OpenShift': 'gitops-on-openshift.md'
     - 'OpenShift Metering': 'metering.md'
-
-
