@@ -1,7 +1,12 @@
 site_name: OpenShift Demos and Workshops
 theme: 
-    name: readthedocs
-    custom_dir: custom_theme/
+    name: null
+    custom_dir: openshift/
+    navigation_depth: 2
+    include_homepage_in_sidebar: true
+    include_search_page: true
+plugins:
+    - search
 
 nav:
 - Home: 'index.md'
@@ -27,5 +32,3 @@ nav:
     - 'Windows Containers': 'windows-containers.md'
     - 'GitOps on OpenShift': 'gitops-on-openshift.md'
     - 'OpenShift Metering': 'metering.md'
-
-
