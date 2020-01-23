@@ -12,6 +12,7 @@ nav:
 - Home: 'index.md'
 - AppDev:
     - 'Application Performance Monitoring in OpenShift': 'app-monitoring.md'
+    - 'DevOps with OpenShift': 'devops-with-openshift.md'
     - 'Full Serverless Workflow: Eventing, Serving, and Building': 'serverless-workflow.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
