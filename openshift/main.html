@@ -93,7 +93,7 @@
                     <a class="">{{ nav_item.title }}</a>
                     <ul class="list-unstyled collapse in">
                         {%- for nav_item in nav_item.children %}
-                        <li class="toctree-l{{ navlevel }}{% if nav_item.active %} current{% endif %}">
+                        <li class="toctree-l{{ navlevel }}{% if nav_item.active %} active{% endif %}">
                             {%- include 'nav.html' %}
                         </li>
                         {%- endfor %}
@@ -101,7 +101,7 @@
                   </li>
               {%- elif config.theme.include_homepage_in_sidebar or (not nav_item == nav.homepage) %}
                   <ul class="list-unstyled collapse in">
-                      <li class="toctree-l{{ navlevel }}{% if nav_item.active %} current{% endif %}">
+                      <li class="toctree-l{{ navlevel }}{% if nav_item.active %} active{% endif %}">
                           {%- include 'nav.html' %}
                       </li>
                   </ul>
@@ -109,7 +109,6 @@
           {%- endfor %}
           {%- endblock %}
           </ul>
-          {% include "versions.html" %}
         </div>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-9 main">
