@@ -26,9 +26,5 @@ nav:
     - 'vSphere UPI': 'vsphere-upi.md'
 - Management/Ops:
     - 'Container Native Virtualization': 'cnv.md'
-    - 'GitOps on OpenShift': 'gitops-on-openshift.md'
-    - 'IBM Multi-Cluster Manager': 'ibm-mcm.md'
-    - 'Managing Operators at scale': 'managing-operators-at-scale.md'
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
-    - 'Windows Containers': 'windows-containers.md'
