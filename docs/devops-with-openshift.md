@@ -1,4 +1,3 @@
-# DevOps with OpenShift
 The DevOps with OpenShift Workshop is a half-day event with a series of hands-on-labs which are designed to familiarize participants with DevOps and Continuous Delivery concepts. The workshop walks participants through building an automated pipeline and customizing Jenkins in various ways.
 
 The workshop consists of the following topics:
