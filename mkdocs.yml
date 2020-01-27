@@ -18,6 +18,7 @@ nav:
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
+    - 'DevOps with OpenShift': 'devops-with-openshift.md'
 - Install/Multi-Cloud:
     - 'Azure IPI': 'azure-ipi.md'
     - 'Bare Metal UPI': 'bm-upi.md'
