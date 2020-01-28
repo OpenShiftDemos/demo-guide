@@ -11,9 +11,7 @@ plugins:
 nav:
 - Home: 'index.md'
 - AppDev:
-    - 'Application Performance Monitoring in OpenShift': 'app-monitoring.md'
     - 'DevOps with OpenShift': 'devops-with-openshift.md'
-    - 'Full Serverless Workflow: Eventing, Serving, and Building': 'serverless-workflow.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
@@ -23,7 +21,6 @@ nav:
     - 'Bare Metal UPI': 'bm-upi.md'
     - 'Disconnected Install': 'disconnected-upi.md'
     - 'Google Cloud IPI': 'gcp-ipi.md'
-    - 'OSP UPI': 'osp-upi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
 - Management/Ops:
     - 'Container Native Virtualization': 'cnv.md'
