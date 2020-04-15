@@ -11,6 +11,7 @@ plugins:
 nav:
 - Home: 'index.md'
 - AppDev:
+    - 'AI/ML Workflows on OpenShift': 'aiml-workflows.md'
     - 'DevOps with OpenShift': 'devops-with-openshift.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
