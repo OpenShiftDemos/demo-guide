@@ -1,4 +1,3 @@
-# Heading of Section (eg: AppDev)
 A handy description of the whole section.
 
 ## SubSection (eg: specific thing)
