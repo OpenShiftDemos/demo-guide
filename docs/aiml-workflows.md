@@ -25,4 +25,4 @@ at the source repo linked below.
 The source code repository that houses the various Jupyter Notebook files can
 be found here:
 
-https://github.com/willb/openshift-ml-workflows-workshop
+<https://github.com/willb/openshift-ml-workflows-workshop>
