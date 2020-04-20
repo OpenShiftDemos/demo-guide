@@ -4,14 +4,14 @@ introduce people to Service Mesh and how it works in an OpenShift
 environment. It includes exercises covering the primary features of Istio,
 how they are observed with Kiali, and an introduction to Jaeger.
 
-### Source
+## Source
 The source code for the experience can be found
 [here](https://github.com/thoraxe/lab-ossm). Note that there is a `develop`
 branch as well as a `master`. The public-facing experience is always running
 off `master`, and pull requests should be submitted to `develop`. The source
 repository includes instructions for how to deploy the workshop yourself.
 
-### Workshop
+## Workshop
 Within RHPDS, the catalog item is in the _Workshops_ category and is called
 _Red Hat OpenShift Service Mesh in Action_. Each student/participant will be
 sharing a single cluster. 
