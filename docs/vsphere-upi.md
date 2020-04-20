@@ -1,13 +1,21 @@
+Using the pre-existing infrastructure install process, also known as user
+provisioned infrastructure or UPI, gives the administrator the ability to
+create and manage OpenShift nodes themselves. The OpenShift install process
+changes when using this method, where the Ignition configs must be provided
+to the nodes so that they may cofigure and join the cluster. This video
+demonstrates the process of deploying RHEL CoreOS to VMware virtual machines
+and deploying OpenShift 4 to those VMs. For more information, refer to the
+[installer
+documentation](https://docs.openshift.com/container-platform/latest/installing/installing_vsphere/installing-vsphere.html)
 
-Using the pre-existing infrastructure install process, also known as user provisioned infrastructure or UPI, gives the administrator the ability to create and manage OpenShift nodes themselves.  The OpenShift install process changes when using this method, where the Ignition configs must be provided to the nodes so that they may cofigure and join the cluster.  This video demonstrates the process of deploying RHEL CoreOS to VMware virtual machines and deploying OpenShift 4 to those VMs.  For more information, refer to the [installer documentation](https://docs.openshift.com/container-platform/latest/installing/installing_vsphere/installing-vsphere.html)
+## Video
 
-### Video
-
-This video demonstrates using Terraform to create vSphere virtual machines from the Red Hat Enterprise Linux CoreOS OVA template.
+This video demonstrates using Terraform to create vSphere virtual machines
+from the Red Hat Enterprise Linux CoreOS OVA template.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TsAJEEDv-gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Additional Resources
+## Additional Resources
 
 * OpenShift documentation: [Installing a cluster on vSphere](https://docs.openshift.com/container-platform/latest/installing/installing_vsphere/installing-vsphere.html)
 * Blogs

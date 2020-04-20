@@ -1,4 +1,3 @@
-
 The OpenShift Cloud Native Development workshop is a series of exercises
 targeted at individuals who are interested in cloud native development
 practices and how the Red Hat portfolio of solutions work in that context.
@@ -11,9 +10,10 @@ The workshop consists of four distinct modules covering various topics:
 
 ## Workshop
 Within RHPDS, the catalog item is in the _Workshops_ category and is called
-_CCN Roadshow for Dev Track_. The instructor will provision one cluster for the entire workshop. In RHPDS, before ordering, the catalog item
-description links to instructions for how to set up your environment and
-other details about performing the workshop.
+_CCN Roadshow for Dev Track_. The instructor will provision one cluster for
+the entire workshop. In RHPDS, before ordering, the catalog item description
+links to instructions for how to set up your environment and other details
+about performing the workshop.
 
 While RHPDS uses [AgnosticD](https://github.com/redhat-cop/agnosticd) to
 provision environments under the covers, this particular workshop only uses a
