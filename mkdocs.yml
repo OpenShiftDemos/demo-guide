@@ -24,6 +24,9 @@ nav:
     - 'Google Cloud IPI': 'gcp-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
 - Management/Ops:
+    - 'Cluster Application Migration': 'cluster-application-migration.md'
     - 'Container Native Virtualization': 'cnv.md'
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
+- GitOps:
+    - 'Getting Started with ArgoCD': 'argocd.md'
