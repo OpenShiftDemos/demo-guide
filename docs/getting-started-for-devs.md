@@ -4,6 +4,7 @@ The workshop is supported for OpenShift 3.10, 3.11, and 4.2 and the following
 programming languages: Java, Node.js, Python, and PHP.
 
 The workshop consists of the following topics:
+
 * Using the OpenShift command line client and web console.
 * Deploying an application using a pre-existing container image.
 * Working with application labels to identify component parts.
