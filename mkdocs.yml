@@ -13,6 +13,7 @@ nav:
 - AppDev:
     - 'AI/ML Workflows on OpenShift': 'aiml-workflows.md'
     - 'DevOps with OpenShift': 'devops-with-openshift.md'
+    - 'Getting Started with OpenShift for Developers': 'getting-started-for-devs.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
