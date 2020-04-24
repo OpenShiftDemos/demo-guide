@@ -2,7 +2,7 @@ site_name: OpenShift Demos and Workshops
 theme: 
     name: null
     custom_dir: openshift/
-    navigation_depth: 2
+    navigation_depth: 1
     include_homepage_in_sidebar: true
     include_search_page: true
 plugins:
