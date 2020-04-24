@@ -8,8 +8,12 @@ cloud-native CI/CD pipelines quickly. As a Kubernetes-native framework,
 Tekton makes it easier to deploy across multiple cloud providers or hybrid
 environments. By leveraging the Custom Resource Definitions (CRDs) in
 Kubernetes, Tekton uses the Kubernetes control plane to run pipeline tasks.
-By using standard industry specifications, Tekton will work well with
-existing CI/CD tools such as Jenkins, Jenkins X, Skaffold, and Knative.
+By using standard industry specifications, Tekton provides reusable definitions of a CI/CD pipeline-as-code. 
+
+There are also public libraries of ready-to-use Tekton Tasks that help speed-up the creation of pipelines, such as:
+* [OpenShift Pipelines Tasks Catalog](https://github.com/openshift/pipelines-catalog)
+* [Tekton Tasks Catalog](https://github.com/tektoncd/catalog)
+
 
 ## Video
 
@@ -23,15 +27,23 @@ pipeline.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pMDiiW1UqLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Workshop
+## Workshops / Tutorials
 
+* [OpenShift Pipelines tutorial on https://learn.openshift.com](https://learn.openshift.com/middleware/pipelines/)
 * [A step-by-step tutorial showing OpenShift Pipelines](https://github.com/openshift/pipelines-tutorial)
 * [openshift-labs/lab-tekton-pipelines: OpenShift Pipelines workshop](https://github.com/openshift-labs/lab-tekton-pipelines)
+* [devnation Tekton master course slides](http://dn.dev/tektonmaster)
+* [devnation Tekton master course tutorial](http://dn.dev/tekton-tutorial)
+
+## Blogs
+
+* [Cloud-Native CI/CD with OpenShift Pipelines – Red Hat OpenShift Blog](https://blog.openshift.com/cloud-native-ci-cd-with-openshift-pipelines/)
+
 
 ## Additional Resources
 
 * [OpenShift Pipelines Documentation](https://openshift.github.io/pipelines-docs/)
-* [Cloud-Native CI/CD with OpenShift Pipelines – Red Hat OpenShift Blog](https://blog.openshift.com/cloud-native-ci-cd-with-openshift-pipelines/)
+
 
 ## Source
 
