@@ -11,8 +11,8 @@ Kubernetes, Tekton uses the Kubernetes control plane to run pipeline tasks.
 By using standard industry specifications, Tekton provides reusable definitions of a cicd pipeline-as-code. 
 
 There are also public libraries of ready-to-use Tekton Tasks that help speed-up the creation of pipelines, such as:
-* [OpenShift Pipelines Tasks Catalog] https://github.com/openshift/pipelines-catalog
-* [Tekton Tasks Catalog] https://github.com/tektoncd/catalog
+* [OpenShift Pipelines Tasks Catalog](https://github.com/openshift/pipelines-catalog)
+* [Tekton Tasks Catalog](https://github.com/tektoncd/catalog)
 
 
 ## Video
@@ -29,11 +29,11 @@ pipeline.
 
 ## Workshops / Tutorials
 
-* [OpenShift Pipelines tutorial on https://learn.openshift.com] https://learn.openshift.com/middleware/pipelines/
+* [OpenShift Pipelines tutorial on https://learn.openshift.com](https://learn.openshift.com/middleware/pipelines/)
 * [A step-by-step tutorial showing OpenShift Pipelines](https://github.com/openshift/pipelines-tutorial)
 * [openshift-labs/lab-tekton-pipelines: OpenShift Pipelines workshop](https://github.com/openshift-labs/lab-tekton-pipelines)
-* [devnation Tekton master course slides] http://dn.dev/tektonmaster
-* [devnation Tekton master course tutorial] http://dn.dev/tekton-tutorial 
+* [devnation Tekton master course slides](http://dn.dev/tektonmaster)
+* [devnation Tekton master course tutorial](http://dn.dev/tekton-tutorial)
 
 ## Blogs
 
