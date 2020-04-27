@@ -15,6 +15,7 @@ nav:
     - 'DevOps with OpenShift': 'devops-with-openshift.md'
     - 'Getting Started with OpenShift for Developers': 'getting-started-for-devs.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
+    - 'odo Developer CLI': 'odo-developer-cli.md'
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
@@ -27,6 +28,7 @@ nav:
 - Management/Ops:
     - 'Cluster Application Migration': 'cluster-application-migration.md'
     - 'Container Native Virtualization': 'cnv.md'
+    - 'Kubernetes Operators': 'kubernetes-operators.md'
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
 - GitOps:
