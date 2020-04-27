@@ -31,8 +31,7 @@ and run the workshop once the cluster is available are
 [here](https://github.com/openshift-labs/lab-developing-with-odo/blob/master/README.md).
 
 ### Source
-The source code for the workshop guide is here: 
-https://github.com/openshift-labs/lab-developing-with-odo.
+The source code for the workshop guide is [here](https://github.com/openshift-labs/lab-developing-with-odo).
 
 ### Blogs
 * [How to use odo the developer-centric CLI with OpenShift 4](https://developers.redhat.com/blog/2019/10/16/openshift-do-odo-developer-cli-openshift/)

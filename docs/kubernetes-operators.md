@@ -8,8 +8,7 @@ work, as well as how to build Operators using the Operator Framework and
 Operator SDK.
 
 ### Self-Paced Learning
-There are several self-paced interactive learning scenarios available here:
-https://learn.openshift.com/operatorframework/
+There are several self-paced interactive learning scenarios available [here](https://learn.openshift.com/operatorframework/).
 
 ### Workshop
 Within RHPDS, the catalog item is in the _Workshops_ category and is called 
@@ -20,8 +19,7 @@ and run the workshop once the cluster is available are
 [here](https://github.com/openshift-labs/lab-build-an-operator/blob/master/README.md).
 
 ### Source
-The source code for the workshop guide is here: 
-https://github.com/openshift-labs/lab-build-an-operator.
+The source code for the workshop guide is [here](https://github.com/openshift-labs/lab-build-an-operator).
 
 ### Video
 Recording of the _Automating Stateful Applications with Kubernetes Operators_ 
