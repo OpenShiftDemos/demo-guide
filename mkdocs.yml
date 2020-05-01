@@ -25,6 +25,7 @@ nav:
     - 'Disconnected Install': 'disconnected-upi.md'
     - 'Google Cloud IPI': 'gcp-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
+    - 'Installing a Windows Node': 'installing-windows-node.md'
 - Management/Ops:
     - 'Cluster Application Migration': 'cluster-application-migration.md'
     - 'Container Native Virtualization': 'cnv.md'
