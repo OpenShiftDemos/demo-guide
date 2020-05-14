@@ -21,10 +21,13 @@ The workshop consists of the following topics:
 Additional topics may also be covered relevant to the specific programming 
 language used by the applications being deployed.
 
+## Video
 
-### Workshop
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8cB-tWf7vxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### OpenShift 3.11
+## Workshop
+
+### OpenShift 3.11
 Within RHPDS, the catalog item is in the _Workshops_ category and is called
 _OpenShift Workshop_. The instructor will provision one cluster for the entire 
 workshop. 
@@ -37,7 +40,7 @@ An example of the lab guide is found
 [here](http://starter-guides-labs.b9ad.pro-us-east-1.openshiftapps.com/workshop/workshop/lab/common-environment).
 
 
-#### OpenShift 4.2
+### OpenShift 4.2
 
 Within RHPDS, the catalog item is in the _Workshops_ category and is called 
 _OCP4 - Getting Started Workshop_. The instructor will provision one cluster 
@@ -47,12 +50,12 @@ Details on the workshop content as well as full instructions on how to deploy
 and run the workshop once the cluster is available are 
 [here](https://github.com/openshift-labs/starter-guides/blob/ocp-4.2/README.md).
 
-### Source
+## Source
 The source code for the workshop guide is here: 
 https://github.com/openshift-labs/starter-guides. Be sure to select the branch 
 that corresponds with the version of OpenShift that you want to use.
 
-### Self-Paced Learning
+## Self-Paced Learning
 A shorter subset of the workshop content is available here:
 
 <https://learn.openshift.com/introduction/getting-started/>.
