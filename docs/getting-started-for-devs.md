@@ -25,6 +25,8 @@ language used by the applications being deployed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8cB-tWf7vxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+You can find a transcript of this recording [here](https://assets.openshift.com/hubfs/Demo%20Scripts%20(Dan)/Getting%20Started%20with%20OpenShift%20for%20Developers%20Demo%20--%20Script%20-%20Google%20Docs.pdf).
+
 ## Workshop
 
 ### OpenShift 3.11
