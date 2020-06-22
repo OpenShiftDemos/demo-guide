@@ -4,6 +4,7 @@ Continuous Delivery concepts. The workshop walks participants through
 building an automated pipeline and customizing Jenkins in various ways.
 
 The workshop consists of the following topics:
+
 * DevOps Introduction
 * Explore OpenShift
 * Deployment Environments
