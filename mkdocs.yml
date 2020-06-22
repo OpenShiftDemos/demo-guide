@@ -24,6 +24,8 @@ nav:
     - 'Bare Metal UPI': 'bm-upi.md'
     - 'Disconnected Install': 'disconnected-upi.md'
     - 'Google Cloud IPI': 'gcp-ipi.md'
+    - 'RHV IPI': 'rhv-ipi.md'
+    - 'vSphere IPI': 'vsphere-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
     - 'Installing a Windows Node': 'installing-windows-node.md'
 - Management/Ops:
