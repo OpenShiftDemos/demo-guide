@@ -30,7 +30,7 @@ nav:
     - 'Installing a Windows Node': 'installing-windows-node.md'
 - Management/Ops:
     - 'Cluster Application Migration': 'cluster-application-migration.md'
-    - 'OpenShift virtualization': 'openshift-virtualization.md'
+    - 'OpenShift Virtualization': 'openshift-virtualization.md'
     - 'Kubernetes Operators': 'kubernetes-operators.md'
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
