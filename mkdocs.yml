@@ -10,8 +10,10 @@ plugins:
 
 nav:
 - Home: 'index.md'
-- AppDev:
+- AI/ML:
     - 'AI/ML Workflows on OpenShift': 'aiml-workflows.md'
+    - 'Data Engineering with Open Data Hub Workshop': 'data-engineering-workshop.md'
+- AppDev:
     - 'DevOps with OpenShift': 'devops-with-openshift.md'
     - 'Getting Started with OpenShift for Developers': 'getting-started-for-devs.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
@@ -19,20 +21,20 @@ nav:
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
+- GitOps:
+    - 'Getting Started with ArgoCD': 'argocd.md'
 - Install/Multi-Cloud:
     - 'Azure IPI': 'azure-ipi.md'
     - 'Bare Metal UPI': 'bm-upi.md'
     - 'Disconnected Install': 'disconnected-upi.md'
     - 'Google Cloud IPI': 'gcp-ipi.md'
+    - 'Installing a Windows Node': 'installing-windows-node.md'
     - 'RHV IPI': 'rhv-ipi.md'
     - 'vSphere IPI': 'vsphere-ipi.md'
     - 'vSphere UPI': 'vsphere-upi.md'
-    - 'Installing a Windows Node': 'installing-windows-node.md'
 - Management/Ops:
     - 'Cluster Application Migration': 'cluster-application-migration.md'
-    - 'OpenShift Virtualization': 'openshift-virtualization.md'
     - 'Kubernetes Operators': 'kubernetes-operators.md'
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
-- GitOps:
-    - 'Getting Started with ArgoCD': 'argocd.md'
+    - 'OpenShift Virtualization': 'openshift-virtualization.md'

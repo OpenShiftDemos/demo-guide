@@ -1,10 +1,11 @@
 The AI/ML Workflows OpenShift demo aims to illustrate that, for data
 scientists, the entire data science development pipeline is really just a
 standard DevOps one. By demonstrating how Jupyter notebooks can be used as a
-part of a model training and deployment flow, the demo shows how easy it can
-be to use OpenShift for data science from concept to production. It also
-incorporates the new OpenShift 4.3 feature of showing application metrics
-directly in the OpenShift web interface.
+part of an Artificial Intelligence / Machine Learning model training and
+deployment flow, the demo shows how easy it can be to use OpenShift for data
+science from concept to production. It also incorporates the new OpenShift
+4.3 feature of showing application metrics directly in the OpenShift web
+interface.
 
 ## Video Recording
 You can find a recording of the demo on YouTube:
