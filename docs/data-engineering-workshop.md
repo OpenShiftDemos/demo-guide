@@ -1,8 +1,9 @@
 This workshop is designed to show data engineers and system administrators
-how to architect a data infrastructure service using the Open Data Hub. Our
-goal is for engineers who are interested in developing platforms for the ML
-and Analytics needs to walk away having learned data wrangling in a Hybrid
-Cloud environment with Spark and JupyterHub.
+how to architect a data infrastructure service using the [Open Data
+Hub](https://opendatahub.io/). Our goal is for engineers who are interested
+in developing platforms for the ML and Analytics needs to walk away having
+learned data wrangling in a Hybrid Cloud environment with
+[Spark](https://spark.apache.org/) and [JupyterHub](https://jupyter.org/hub).
 
 Unlike some other workshops, the entirety of the activity is conducted within
 JupyterHub.
