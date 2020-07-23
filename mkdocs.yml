@@ -23,6 +23,7 @@ nav:
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
 - GitOps:
     - 'Getting Started with ArgoCD': 'argocd.md'
+    - 'Using Tekton and ArgoCD': 'gitops-with-cicd.md'
 - Install/Multi-Cloud:
     - 'Azure IPI': 'azure-ipi.md'
     - 'Bare Metal UPI': 'bm-upi.md'

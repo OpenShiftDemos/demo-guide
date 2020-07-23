@@ -12,6 +12,11 @@ a single repo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYCX2EejSMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+This is a video of a Twitch stream that introduces the concepts of GitOps and
+goes over how to use ArgoCD as a tool for GitOps workflows.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BB7bEhXIwFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Additional Resources
 
 Additional resources can be found at the following locations:
