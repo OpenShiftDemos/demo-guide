@@ -32,3 +32,4 @@ installing to any platform which doesn’t have the ability to provide
 ## Additional Resources
 
 * OpenShift documentation: [Installing a cluster on Bare Metal](https://docs.openshift.com/container-platform/4.2/installing/installing_bare_metal/installing-bare-metal.html)
+* HelperNode: [OpenShift HelperNode Repo](https://github.com/RedHatOfficial/ocp4-helpernode)
