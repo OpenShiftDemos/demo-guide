@@ -6,6 +6,18 @@ so that they may cofigure and join the cluster. For more information, refer
 to the [installer
 documentation](https://docs.openshift.com/container-platform/4.2/installing/installing_bare_metal/installing-bare-metal.html)
 
+## Video
+
+In this video, an installation is done on Bare Metal using [Packet.net](https://packet.net).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3klCv49nayY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this video, a Bare Metal install is done from start to finish. This video
+also goes through all the prerequisites and how to satisfy them before
+installation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZYx4_xBSUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Blog
 
 In this blog we will go over how to get you up and running with a Red Hat
