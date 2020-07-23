@@ -10,7 +10,27 @@ interface.
 ## Video Recording
 You can find a recording of the demo on YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1REuOX6egnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="
+    position: relative; 
+    padding-bottom: 56.25%; 
+    margin-bottom: 2em;
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+    height: auto;">
+    <iframe 
+        src="https://www.youtube.com/embed/1REuOX6egnQ" 
+        frameborder="0" 
+        allowfullscreen 
+        style="
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%;
+        ">
+    </iframe>
+</div>
 
 ## Demo
 This demo can be provisioned using the Red Hat Product Demo System (RHPDS).
@@ -24,6 +44,4 @@ at the source repo linked below.
 
 ## Notebook Source
 The source code repository that houses the various Jupyter Notebook files can
-be found here:
-
-<https://github.com/willb/openshift-ml-workflows-workshop>
+be found here: <https://github.com/willb/openshift-ml-workflows-workshop>

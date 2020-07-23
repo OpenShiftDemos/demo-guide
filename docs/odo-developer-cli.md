@@ -17,23 +17,49 @@ and component.
 ### Video
 This video demonstrates how to deploy applications using `odo`.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9QKTKjxgYsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="
+    position: relative; 
+    padding-bottom: 56.25%; 
+    margin-bottom: 2em;
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+    height: auto;">
+    <iframe 
+        src="https://www.youtube.com/embed/9QKTKjxgYsw" 
+        frameborder="0" 
+        allowfullscreen 
+        style="
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%;
+        ">
+    </iframe>
+</div>
 
 ### Self-Paced Learning
-[Developing with odo](https://learn.openshift.com/introduction/developing-with-odo/)
+[Developing with odo](https://learn.openshift.com/introduction/developing-with-o
+do/)
 
 ### Workshop
 Within RHPDS, the catalog item is in the _Workshops_ category and is called 
 _OCP4 Workshop Development with ODO_. 
 
 Details on the workshop content as well as full instructions on how to deploy 
-and run the workshop once the cluster is available are 
-[here](https://github.com/openshift-labs/lab-developing-with-odo/blob/master/README.md).
+and run the workshop once the cluster is available are [here](https://github.com
+/openshift-labs/lab-developing-with-odo/blob/master/README.md).
 
 ### Source
-The source code for the workshop guide is [here](https://github.com/openshift-labs/lab-developing-with-odo).
+The source code for the workshop guide is [here](https://github.com/openshift-la
+bs/lab-developing-with-odo).
 
 ### Blogs
-* [How to use odo the developer-centric CLI with OpenShift 4](https://developers.redhat.com/blog/2019/10/16/openshift-do-odo-developer-cli-openshift/)
-* [Creating OpenShift components with odo interactive mode](https://developers.redhat.com/blog/2019/08/14/openshift-development-with-interactive-odo/)
-* [Using a custom builder image on Red Hat OpenShift with OpenShift Do](https://developers.redhat.com/blog/2019/07/15/using-a-custom-builder-image-on-red-hat-openshift-with-openshift-do/)
+* [How to use odo the developer-centric CLI with OpenShift 4](https://developers
+.redhat.com/blog/2019/10/16/openshift-do-odo-developer-cli-openshift/)
+* [Creating OpenShift components with odo interactive mode](https://developers.r
+edhat.com/blog/2019/08/14/openshift-development-with-interactive-odo/)
+* [Using a custom builder image on Red Hat OpenShift with OpenShift Do](https://
+developers.redhat.com/blog/2019/07/15/using-a-custom-builder-image-on-red-hat-op
+enshift-with-openshift-do/)
