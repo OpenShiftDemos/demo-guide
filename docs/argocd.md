@@ -9,50 +9,24 @@ This video demonstrates how to install the ArgoCD Operator on OpenShift 4. It
 also goes through how to deploy an application across multiple clusters from
 a single repo.
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/xYCX2EejSMc" 
         frameborder="0" 
-        allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+        allowfullscreen
+    >
     </iframe>
 </div>
 
 This is a video of a Twitch stream that introduces the concepts of GitOps and
 goes over how to use ArgoCD as a tool for GitOps workflows.
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/BB7bEhXIwFY" 
         frameborder="0" 
-        allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+        allowfullscreen
+    >
     </iframe>
 </div>
 

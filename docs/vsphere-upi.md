@@ -12,52 +12,25 @@ nstalling/installing_vsphere/installing-vsphere.html).
 
 **Pre-existing infrastructure (UPI) install using OpenShift 4.4**
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/PdyNQXpYknI" 
         frameborder="0" 
-        allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+        allowfullscreen
+    >
     </iframe>
 </div>
 
 **Recorded livestream OpenShift on vSphere (UPI and IPI) demo**
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/Be0dRq0wjWE" 
         frameborder="0" 
-        allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+        allowfullscreen
+    >
     </iframe>
 </div>
-
 
 [This **deprecated** video](https://www.youtube.com/watch?v=TsAJEEDv-gg) 
 demonstrates deploying OpenShift 4.1 with the pre-existing (UPI) method, 

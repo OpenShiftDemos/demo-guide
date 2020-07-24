@@ -8,25 +8,12 @@ This video demonstrates how to use Tekton for the CI part of your workflow
 while using Argo for the CD aspect. It also goes over [Hive](https://github.com/
 openshift/hive) for creating clusters.
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/pVZ-3LEIHc8" 
         frameborder="0" 
-        allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+        allowfullscreen
+    >
     </iframe>
 </div>
 
