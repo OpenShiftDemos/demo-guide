@@ -23,9 +23,18 @@ language used by the applications being deployed.
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8cB-tWf7vxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+    <iframe 
+        src="https://www.youtube.com/embed/8cB-tWf7vxg" 
+        frameborder="0" 
+        allowfullscreen
+    >
+    </iframe>
+</div>
 
-You can find a transcript of this recording [here](https://assets.openshift.com/hubfs/Demo%20Scripts%20(Dan)/Getting%20Started%20with%20OpenShift%20for%20Developers%20Demo%20--%20Script%20-%20Google%20Docs.pdf).
+You can find a transcript of this recording [here](https://assets.openshift.com/
+hubfs/Demo%20Scripts%20(Dan)/Getting%20Started%20with%20OpenShift%20for%20Develo
+pers%20Demo%20--%20Script%20-%20Google%20Docs.pdf).
 
 ## Workshop
 
@@ -39,7 +48,8 @@ and run the workshop once the cluster is available are
 [here](https://github.com/openshift-labs/starter-guides/blob/ocp-3.11/README.md).
 
 An example of the lab guide is found 
-[here](http://starter-guides-labs.b9ad.pro-us-east-1.openshiftapps.com/workshop/workshop/lab/common-environment).
+[here](http://starter-guides-labs.b9ad.pro-us-east-1.openshiftapps.com/workshop/
+workshop/lab/common-environment).
 
 
 ### OpenShift 4.2
@@ -49,15 +59,14 @@ _OCP4 - Getting Started Workshop_. The instructor will provision one cluster
 for the entire workshop.
 
 Details on the workshop content as well as full instructions on how to deploy 
-and run the workshop once the cluster is available are 
-[here](https://github.com/openshift-labs/starter-guides/blob/ocp-4.2/README.md).
+and run the workshop once the cluster is available are [here](https://github.com
+/openshift-labs/starter-guides/blob/ocp-4.2/README.md).
 
 ## Source
-The source code for the workshop guide is here: 
-https://github.com/openshift-labs/starter-guides. Be sure to select the branch 
-that corresponds with the version of OpenShift that you want to use.
+The source code for the workshop guide is [here](https://github.com/openshift-la
+bs/starter-guides). Be sure to select the branch that corresponds with the 
+version of OpenShift that you want to use.
 
 ## Self-Paced Learning
-A shorter subset of the workshop content is available here:
-
-<https://learn.openshift.com/introduction/getting-started/>.
+A shorter subset of the workshop content is available [here](https://learn.opens
+hift.com/introduction/getting-started/).
