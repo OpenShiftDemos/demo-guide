@@ -8,6 +8,9 @@ theme:
 plugins:
     - search
 
+extra_css:
+    - css/video.css
+
 nav:
 - Home: 'index.md'
 - AI/ML:

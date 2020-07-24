@@ -21,25 +21,12 @@ The video was created using OpenShift 4.4 and OpenShift Virtualization 2.3,
 which are the versions immediately preceeding general availability.  As a 
 result, please expect some minor changes to the GUI.
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/JzfXhdcsdRs" 
         frameborder="0" 
-        allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+        allowfullscreen
+    >
     </iframe>
 </div>
 
@@ -50,25 +37,12 @@ the Red Hat Virtualization Manager interface, highlighting how both traditional
 virtualization administrators and OpenShift / Kubernetes administrators can 
 create and consume resources using the interface they are most familiar with.
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/MMEaZAxj9_8" 
         frameborder="0" 
         allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+    >
     </iframe>
 </div>
 
@@ -80,25 +54,12 @@ Virtualization wizard, or via the command line.  This demo highlights creating
 a Windows Server 2019 VM using the Containerized Data Importer to import a 
 QCOW2 OS disk.
 
-<div style="
-    position: relative; 
-    padding-bottom: 56.25%; 
-    margin-bottom: 2em;
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-    height: auto;">
+<div class="video">
     <iframe 
         src="https://www.youtube.com/embed/Kx110kqoHo0" 
         frameborder="0" 
         allowfullscreen 
-        style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%;
-        ">
+    >
     </iframe>
 </div>
 
@@ -113,7 +74,7 @@ the application, developer, and administrator teams.
 
 **OpenShift Virtualization livestream**
 
-[This recorded livestream](https://www.youtube.com/embed/ucllLdo-e4M), about 
+[This recorded livestream](https://youtu.be/ucllLdo-e4M), about 
 two hours in length, spends time highlighting the cabilities and features of 
 OpenShift Virtualization, including walking through the process of installing 
 the Operator, deploying the hypervisor resources, and instantiating virtual 
@@ -149,6 +110,6 @@ ttps://www.openshift.com/blog/blog-openshift-virtualization-whats-new-with-virt
 ualization-from-red-hat)
     * [OpenShift Virtualization: Containers, KVM, and your VMs](https://www.ope
 nshift.com/blog/openshift-virtualization-containers-kvm-and-your-vms)
-    * [OpenShift 4.3: Creating virtual
-machines on Kubernetes with OpenShift's CNV](https://www.openshift.com/blog/ope
-nshift-4-3-creating-virtual-machines-on-kubernetes-with-openshifts-cnv)
+    * [OpenShift 4.3: Creating virtual machines on Kubernetes with OpenShift's 
+CNV](https://www.openshift.com/blog/openshift-4-3-creating-virtual-machines-on-
+kubernetes-with-openshifts-cnv)

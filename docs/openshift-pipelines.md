@@ -14,7 +14,8 @@ definitions of a CI/CD pipeline-as-code.
 There are also public libraries of ready-to-use Tekton Tasks that help
 speed-up the creation of pipelines, such as:
 
-* [OpenShift Pipelines Tasks Catalog](https://github.com/openshift/pipelines-catalog)
+* [OpenShift Pipelines Tasks Catalog](https://github.com/openshift/pipelines-cat
+alog)
 * [Tekton Tasks Catalog](https://github.com/tektoncd/catalog)
 
 
@@ -28,27 +29,41 @@ high-level concepts of Tekton. The result of this video is showing how to
 deploy a sample application out to an OpenShift 4 cluster using a Tekton
 pipeline.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pMDiiW1UqLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+    <iframe 
+        src="https://www.youtube.com/embed/pMDiiW1UqLo" 
+        frameborder="0" 
+        allowfullscreen
+    >
+    </iframe>
+</div>
 
 ## Workshops / Tutorials
 
-* [OpenShift Pipelines tutorial on https://learn.openshift.com](https://learn.openshift.com/middleware/pipelines/)
-* [A step-by-step tutorial showing OpenShift Pipelines](https://github.com/openshift/pipelines-tutorial)
-* [openshift-labs/lab-tekton-pipelines: OpenShift Pipelines workshop](https://github.com/openshift-labs/lab-tekton-pipelines)
+* [OpenShift Pipelines tutorial on https://learn.openshift.com](https://learn.op
+enshift.com/middleware/pipelines/)
+* [A step-by-step tutorial showing OpenShift Pipelines](https://github.com/opens
+hift/pipelines-tutorial)
+* [openshift-labs/lab-tekton-pipelines: OpenShift Pipelines workshop](https://gi
+thub.com/openshift-labs/lab-tekton-pipelines)
 * [devnation Tekton master course slides](http://dn.dev/tektonmaster)
 * [devnation Tekton master course tutorial](http://dn.dev/tekton-tutorial)
 
 ## Blogs
 
-* [Cloud-Native CI/CD with OpenShift Pipelines – Red Hat OpenShift Blog](https://blog.openshift.com/cloud-native-ci-cd-with-openshift-pipelines/)
+* [Cloud-Native CI/CD with OpenShift Pipelines – Red Hat OpenShift Blog](https:/
+/blog.openshift.com/cloud-native-ci-cd-with-openshift-pipelines/)
 
 
 ## Additional Resources
 
-* [OpenShift Pipelines Documentation](https://openshift.github.io/pipelines-docs/)
+* [OpenShift Pipelines Documentation](https://openshift.github.io/pipelines-docs
+/)
 
 
 ## Source
 
-* [tektoncd/cli](https://github.com/tektoncd/cli) — A CLI for interacting with Tekton!
-* [tektoncd/pipeline](https://github.com/tektoncd/pipeline) — A K8s-native Pipeline resource.
+* [tektoncd/cli](https://github.com/tektoncd/cli) — A CLI for interacting with 
+Tekton!
+* [tektoncd/pipeline](https://github.com/tektoncd/pipeline) — A K8s-native 
+Pipeline resource.
