@@ -24,13 +24,9 @@ infrasturture and install OpenShift Container Platform onto Azure.
 
 ## Additional Resources
 
-* OpenShift documentation: [Installing a cluster on Azure](https://docs.openshif
-t.com/container-platform/4.2/installing/installing_azure/installing-azure-accoun
+* OpenShift documentation: [Installing a cluster on Azure](https://docs.openshift.com/container-platform/4.2/installing/installing_azure/installing-azure-accoun
 t.html)
 * Blogs
-  * [OpenShift 4.2 Azure Install Blog](https://blog.openshift.com/openshift-4-2-
-on-azure-preview/)
-* Upstream Instructions [OpenShift 4.2 Azure Install](https://github.com/openshi
-ft/installer/tree/master/docs/user/azure)
-* Azure Red Hat OpenShift [ARO Workshop](https://mojo.redhat.com/people/dcain/bl
-og/2019/10/16/azure-red-hat-openshift-aro-rhpds-enablement)
+  * [OpenShift 4.2 Azure Install Blog](https://blog.openshift.com/openshift-4-2-on-azure-preview/)
+* Upstream Instructions [OpenShift 4.2 Azure Install](https://github.com/openshift/installer/tree/master/docs/user/azure)
+* Azure Red Hat OpenShift [ARO Workshop](https://mojo.redhat.com/people/dcain/blog/2019/10/16/azure-red-hat-openshift-aro-rhpds-enablement)

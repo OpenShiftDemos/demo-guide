@@ -36,11 +36,7 @@ Additional resources can be found at the following locations:
 
 ### Blogs
 
-* GitOps with OpenShift: [Introduction to GitOps with OpenShift](https://www.ope
-nshift.com/blog/introduction-to-gitops-with-openshift)
-* Multi Cluster Management: [Multi-cluster Management with GitOps](https://www.o
-penshift.com/blog/multi-cluster-management-with-gitops)
-* Integrated Authentication: [OpenShift Authentication Integration with ArgoCD](
-https://www.openshift.com/blog/openshift-authentication-integration-with-argocd)
-* Disaster Recovery: [Disaster Recovery with GitOps](https://www.openshift.com/b
-log/disaster-recovery-with-gitops)
+* GitOps with OpenShift: [Introduction to GitOps with OpenShift](https://www.openshift.com/blog/introduction-to-gitops-with-openshift)
+* Multi Cluster Management: [Multi-cluster Management with GitOps](https://www.openshift.com/blog/multi-cluster-management-with-gitops)
+* Integrated Authentication: [OpenShift Authentication Integration with ArgoCD](https://www.openshift.com/blog/openshift-authentication-integration-with-argocd)
+* Disaster Recovery: [Disaster Recovery with GitOps](https://www.openshift.com/blog/disaster-recovery-with-gitops)
