@@ -24,6 +24,7 @@ nav:
     - 'OpenShift Cloud Native Development Workshop': 'cloud-native-development.md'
     - 'OpenShift Pipelines': 'openshift-pipelines.md'
     - 'Red Hat OpenShift Service Mesh in Action Workshop': 'service-mesh.md'
+    - 'Synopsys Black Duck for OpenShift Workshop': 'blackduck-for-openshift.md'
 - GitOps:
     - 'Getting Started with ArgoCD': 'argocd.md'
     - 'Using Tekton and ArgoCD': 'gitops-with-cicd.md'
