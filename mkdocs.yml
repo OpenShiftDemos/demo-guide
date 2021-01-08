@@ -43,3 +43,5 @@ nav:
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
     - 'OpenShift Virtualization': 'openshift-virtualization.md'
+- Security:
+    - 'Cyberark Secrets Management for OpenShift Workshop': 'cyberark-for-openshift.md'
