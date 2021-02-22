@@ -30,6 +30,24 @@ goes over how to use ArgoCD as a tool for GitOps workflows.
     </iframe>
 </div>
 
+
+This video introduces the OpenShift GitOps Operator; which is based on ArgoCD.
+
+<div class="video">
+    <iframe 
+        src="https://www.youtube.com/embed/o03m-1FHhDI" 
+        frameborder="0" 
+        allowfullscreen
+    >
+    </iframe>
+</div>
+
+## Labs
+
+* GitOps Introduction with ArgoCD: [ArgoCD Introduction](https://learn.openshift.com/introduction/gitops-introduction/)
+* Multi Cluster Application Deployment: [Multi-cluster Management with ArgoCD](https://learn.openshift.com/introduction/gitops-multicluster/)
+
+
 ## Additional Resources
 
 Additional resources can be found at the following locations:
@@ -40,3 +58,8 @@ Additional resources can be found at the following locations:
 * Multi Cluster Management: [Multi-cluster Management with GitOps](https://www.openshift.com/blog/multi-cluster-management-with-gitops)
 * Integrated Authentication: [OpenShift Authentication Integration with ArgoCD](https://www.openshift.com/blog/openshift-authentication-integration-with-argocd)
 * Disaster Recovery: [Disaster Recovery with GitOps](https://www.openshift.com/blog/disaster-recovery-with-gitops)
+
+### GitHub Repos
+
+* Getting Started with ArgoCD: [Getting Started with ArgoCD](https://github.com/RedHatWorkshops/argocd-getting-started)
+* Getting Started OpenShift GitOps: [Getting Started with OpenShift GitOps](https://github.com/siamaksade/openshift-gitops-getting-started)
