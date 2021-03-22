@@ -13,7 +13,7 @@ This workshop automatically provisions the Couchbase Operator on OpenShift 4.6, 
 
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3HHPImHr24M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?v=3HHPImHr24M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Demo
 The Couchbase Cluster for OpenShift RHPDS catalog item can be used for demo purposes as well. Please follow the link to the workshop below and view the video above to get an understanding of what to demo.
