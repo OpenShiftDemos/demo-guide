@@ -17,6 +17,7 @@ nav:
     - 'AI/ML Workflows on OpenShift': 'aiml-workflows.md'
     - 'Data Engineering with Open Data Hub Workshop': 'data-engineering-workshop.md'
 - AppDev:
+    - 'Couchbase Cluster with OpenShift': 'couchbase-cluster-for-openshift.md'
     - 'DevOps with OpenShift': 'devops-with-openshift.md'
     - 'Getting Started with OpenShift for Developers': 'getting-started-for-devs.md'
     - 'Helm 3 in Action': 'helm3-in-action.md'
