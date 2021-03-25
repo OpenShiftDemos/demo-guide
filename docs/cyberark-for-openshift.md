@@ -16,7 +16,7 @@ OpenShift and covers the following topics:
    connects to a database using CyberArk’s Secretless Broker.
 
 ### Video
-* 10 min demo: [CyberArk Secrets Management in Red Hat OpenShift](https://www.youtube.com/watch?v=tDTTAXnd-LQ) 
+* 10 min demo: [CyberArk Secrets Management in Red Hat OpenShift](https://www.youtube.com/watch?v=xAeFFNBR6Qc) 
 * DevOps.com webinar: [Securing Red Hat OpenShift Containerized Applications At Enterprise Scale
 ](https://webinars.devops.com/securing-red-hat-openshift-containerized-applications-at-enterprise-scale) 
 
