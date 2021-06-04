@@ -12,7 +12,7 @@ nstalling_gcp/installing-gcp-account.html).
 ## Video
 
 This video demonstrates using the OpenShift Installer to provision the
-infrasturture and install OpenShift Container Platform onto Google Cloud.
+infrastructure and install OpenShift Container Platform onto Google Cloud.
 
 <div class="video">
     <iframe 
