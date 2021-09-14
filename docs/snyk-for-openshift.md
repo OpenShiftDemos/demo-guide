@@ -9,7 +9,7 @@ The Snyk on OpenShift workshop provieds a fully deployed and running [Snyk Contr
 ### Videos
 * Learn how to demo Snyk for OpenShift in 10 minutes:
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HZ8HBpZIpI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 * Learn how Snyk helps developers build secure containers:
@@ -32,10 +32,10 @@ specifically for this workshop. In RHPDS, before ordering, the catalog item
 description links to instructions for how to set up your environment and other 
 details about performing the workshop.
 
-* [Snyk for OpenShift Workshop Lab Guide](https://github.com/snyk-partners/snyk-rhpds")
+* [Snyk for OpenShift Workshop Lab Guide](https://github.com/snyk-partners/snyk-rhpds)
 
 ### Additional Resources
 
 * [Snyk Container One-Pager](https://liveshare.seismic.com/i/WkIwdkHCcoE25sFWyFV6HGQV44lp9xp9R7jM85gr8b4sQZ6jFYrQm___x52bgpLS8R8gJbEP5SgfXYO8sXbiJ7yBdYm8v107sLicc6Crw3EooEQUALSIGN)
 
-* [Snyk Infrastructure as Code One-Pager](https://liveshare.seismic.com/i/WkIwdkHCcoE25sFWyFV6HGQV44lp9xp9R7jM85gr8b6KJEByKRuf___Y29F78nEw8nZTo01JniShv8kYcNosltnNpkfAZ2EjA3zoI___rvIY05UEQUALSIG)
+* [Snyk Infrastructure as Code One-Pager](https://liveshare.seismic.com/i/WkIwdkHCcoE25sFWyFV6HGQV44lp9xp9R7jM85gr8b6KJEByKRuf___Y29F78nEw8nZTo01JniShv8kYcNosltnNpkfAZ2EjA3zoI___rvIY05UEQUALSIGN)
