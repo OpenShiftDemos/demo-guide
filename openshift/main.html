@@ -13,7 +13,7 @@
   {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
   {% if page and page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
   {% if config.site_favicon %}<link rel="shortcut icon" href="{{ config.site_favicon|url }}">
-  {% else %}<link rel="shortcut icon" href="{{ 'img/favicon.ico'|url }}">{% endif %}
+  {% else %}<link rel="shortcut icon" href="{{ 'images/favicon.ico'|url }}">{% endif %}
   {%- endblock %}
 
   {%- block htmltitle %}
@@ -21,17 +21,17 @@
   {%- endblock %}
 
   {%- block styles %}
-  <link href="https://assets.openshift.net/content/subdomain.css" rel="stylesheet" type="text/css">
-  <link href="https://docs.openshift.com/container-platform/4.1/_stylesheets/docs.css" rel="stylesheet" />
+  <link href="../css/subdomain.css" rel="stylesheet" type="text/css">
+  <link href="../css/docs.css" rel="stylesheet" />
   <link href="https://docs.openshift.com/container-platform/4.1/_stylesheets/search.css" rel="stylesheet" />
-  <link href="https://assets.openshift.net/content/subdomain/touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png">
-  <link href="https://assets.openshift.net/content/subdomain/favicon32x32.png" rel="shortcut icon" type="text/css">
-  <link href="https://assets.openshift.net/content/osh-nav-footer.css" rel="stylesheet" type="text/css" media="screen, print" />
-  <!--[if IE]><link rel="shortcut icon" href="https://assets.openshift.net/content/subdomain/favicon.ico"><![endif]-->
+  <link href="../images/touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png">
+  <link href="../images/favicon32x32.png" rel="shortcut icon" type="text/css">
+  <link href="../css/osh-nav-footer.css" rel="stylesheet" type="text/css" media="screen, print" />
+  <!--[if IE]><link rel="shortcut icon" href="../images/favicon.ico"><![endif]-->
   <!-- or, set /favicon.ico for IE10 win -->
   <meta content="OpenShift" name="application-name">
   <meta content="#000000" name="msapplication-TileColor">
-  <meta content="https://assets.openshift.net/content/subdomain/touch-icon-precomposed.png" name="msapplication-TileImage">
+  <meta content="../images//touch-icon-precomposed.png" name="msapplication-TileImage">
   {%- if config.theme.highlightjs %}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
   {%- endif %}
@@ -51,7 +51,7 @@
   {% endif %}
   <script src="{{ 'js/jquery-2.1.1.min.js'|url }}" defer></script>
   <script src="{{ 'js/modernizr-2.8.3.min.js'|url }}" defer></script>
-  <script src="https://assets.openshift.net/content/subdomain.js"></script>
+  <script src="../js/subdomain.js"></script>
   {%- if config.theme.highlightjs %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   {%- for lang in config.theme.hljs_languages %}
