@@ -10,4 +10,4 @@ The intention is that content here will be maintained for X releases for the con
 
 ## CONTACT
 
-If you have any questions, please feel free to contact [cshort@redhat.com](mailto:cshort@redhat.com)
+If you have any questions, please feel free to contact [ejacobs@redhat.com](mailto:ejacobs@redhat.com)
