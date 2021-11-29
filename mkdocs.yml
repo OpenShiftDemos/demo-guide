@@ -47,3 +47,4 @@ nav:
     - 'Synopsys Black Duck for OpenShift Workshop': 'blackduck-for-openshift.md'
     - 'Cyberark Secrets Management for OpenShift Workshop': 'cyberark-for-openshift.md'
     - 'Snyk for OpenShift Workshop': 'snyk-for-openshift.md'
+    - 'Prisma Cloud for OpenShift Workshop': 'prismacloud-for-openshift.md'
