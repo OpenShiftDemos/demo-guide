@@ -1,7 +1,7 @@
 The Getting Started with OpenShift for Developers workshop is an introduction 
 to developing applications on OpenShift and is ideal to introduce the basics. 
-The workshop is supported for OpenShift 3.10, 3.11, and 4.2 and the following 
-programming languages: Java, Node.js, Python, and PHP.
+The workshop is supported for OpenShift 4.8 and above and the following 
+programming languages: Java, Node.js, Python, and .NET.
 
 The workshop consists of the following topics:
 
@@ -38,21 +38,8 @@ pers%20Demo%20--%20Script%20-%20Google%20Docs.pdf).
 
 ## Workshop
 
-### OpenShift 3.11
-Within RHPDS, the catalog item is in the _Workshops_ category and is called
-_OpenShift Workshop_. The instructor will provision one cluster for the entire 
-workshop. 
 
-Details on the workshop content as well as full instructions on how to deploy 
-and run the workshop once the cluster is available are 
-[here](https://github.com/openshift-labs/starter-guides/blob/ocp-3.11/README.md).
-
-An example of the lab guide is found 
-[here](http://starter-guides-labs.b9ad.pro-us-east-1.openshiftapps.com/workshop/
-workshop/lab/common-environment).
-
-
-### OpenShift 4.2
+### OpenShift 4.8
 
 Within RHPDS, the catalog item is in the _Workshops_ category and is called 
 _OCP4 - Getting Started Workshop_. The instructor will provision one cluster 
@@ -60,7 +47,7 @@ for the entire workshop.
 
 Details on the workshop content as well as full instructions on how to deploy 
 and run the workshop once the cluster is available are [here](https://github.com
-/openshift-labs/starter-guides/blob/ocp-4.2/README.md).
+/openshift-labs/starter-guides/blob/ocp-4.8/README.md).
 
 ## Source
 The source code for the workshop guide is [here](https://github.com/openshift-la
