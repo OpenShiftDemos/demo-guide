@@ -32,9 +32,7 @@ language used by the applications being deployed.
     </iframe>
 </div>
 
-You can find a transcript of this recording [here](https://assets.openshift.com/
-hubfs/Demo%20Scripts%20(Dan)/Getting%20Started%20with%20OpenShift%20for%20Develo
-pers%20Demo%20--%20Script%20-%20Google%20Docs.pdf).
+You can find a transcript of this recording [here](https://assets.openshift.com/hubfs/Demo%20Scripts%20(Dan)/Getting%20Started%20with%20OpenShift%20for%20Developers%20Demo%20--%20Script%20-%20Google%20Docs.pdf).
 
 ## Workshop
 
@@ -55,5 +53,4 @@ bs/starter-guides). Be sure to select the branch that corresponds with the
 version of OpenShift that you want to use.
 
 ## Self-Paced Learning
-A shorter subset of the workshop content is available [here](https://learn.opens
-hift.com/introduction/getting-started/).
+A shorter subset of the workshop content is available [here](https://learn.openshift.com/introduction/getting-started/).
