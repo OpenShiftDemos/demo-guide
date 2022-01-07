@@ -48,9 +48,12 @@ and run the workshop once the cluster is available are [here](https://github.com
 /openshift-labs/starter-guides/blob/ocp-4.8/README.md).
 
 ## Source
-The source code for the workshop guide is [here](https://github.com/openshift-la
-bs/starter-guides). Be sure to select the branch that corresponds with the 
+The source code for the workshop guide is [here](https://github.com/openshift-labs/starter-guides). Be sure to select the branch that corresponds with the 
 version of OpenShift that you want to use.
 
 ## Self-Paced Learning
 A shorter subset of the workshop content is available [here](https://learn.openshift.com/introduction/getting-started/).
+
+## Slides
+
+Slides to present this workshop are available [here](https://dn.dev/openshift-workshop)
