@@ -52,7 +52,9 @@ The source code for the workshop guide is [here](https://github.com/openshift-la
 version of OpenShift that you want to use.
 
 ## Self-Paced Learning
-A shorter subset of the workshop content is available [here](https://learn.openshift.com/introduction/getting-started/).
+A shorter subset of the workshop content is available [here](https://developers.redhat.com/courses/openshift/getting-started).
+
+You can also run this Lab in your OpenShift cluster or on [Developer Sandbox for OpenShift](https://developers.redhat.com/developer-sandbox) following this [guide](https://redhat-scholars.github.io/openshift-starter-guides/).
 
 ## Slides
 
