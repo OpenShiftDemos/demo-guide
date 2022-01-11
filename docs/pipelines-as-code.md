@@ -8,7 +8,7 @@ This is very handy because it takes care of initiating a lot of things that need
 ** The following video gives an overview of this new feature on OpenShift
 <div class="video">
     <iframe 
-        src="https://https://youtu.be/3HdRVCqPdg8?t=634" 
+        src="https://youtu.be/3HdRVCqPdg8?t=634" 
         frameborder="0" 
         allowfullscreen
     >
