@@ -17,7 +17,20 @@ This is very handy because it takes care of initiating a lot of things that need
 
 ## Demo
 ** The following video shows a demontration of Pipelines-as-code running on OpenShift
+<div class="video">
+    <iframe 
+        src="https://youtu.be/3HdRVCqPdg8?t=1810" 
+        frameborder="0" 
+        allowfullscreen
+    >
+    </iframe>
+</div>
 
-## To 
+
+
+## Additional resources
+** Pipelines-as-code instructions on Github: https://github.com/openshift-pipelines/pipelines-as-code
+
+
 
 
