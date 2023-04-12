@@ -48,3 +48,4 @@ nav:
     - 'Cyberark Secrets Management for OpenShift Workshop': 'cyberark-for-openshift.md'
     - 'Snyk for OpenShift Workshop': 'snyk-for-openshift.md'
     - 'Prisma Cloud for OpenShift Workshop': 'prismacloud-for-openshift.md'
+    - 'Hashicorp Vault for OpenShift Workshop': 'hashicorp-vault-for-openshift.md'
