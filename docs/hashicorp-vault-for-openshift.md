@@ -14,17 +14,6 @@ This workshop demonstrates HashiCorp Vault fully deployed and running in OpenShi
     <iframe width="560" height="315" src="https://www.youtube.com/embed/LDx6pCOahgE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-* GitOps guide to the Galaxy (part 1):
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Bce_0qa6ias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-* GitOps guide to the Galaxy (part 2):
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1F_dKaat2Es" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ## Demo
 
 The HashiCorp Vault for OpenShift RHDP catalog item can be used for demo purposes as well. Please follow the link to the workshop below and view the videos above to get an understanding of what to demo. 
@@ -39,3 +28,5 @@ This workshop may be provisioned using the Red Hat Demo Platform (RHDP). Within 
 
 * [Red Hat Partner Spotlight: HashiCorp Vault](https://cloud.redhat.com/blog/integrating-hashicorp-vault-in-openshift-4)
 * [Red Hat and HashiCorp integrations](https://www.hashicorp.com/partners/tech/red-hat)
+* [GitOps guide to the Galaxy (part 1)](https://www.youtube.com/watch?v=Bce_0qa6ias)
+* [GitOps guide to the Galaxy (part 2)](https://www.youtube.com/watch?v=1F_dKaat2Es)
